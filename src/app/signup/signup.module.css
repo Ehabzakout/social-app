@@ -1,0 +1,17 @@
+
+.form {
+  padding: 20px;
+}
+.form form button:disabled {
+  opacity: .5;
+}
+
+.form form .input label {
+  
+    color: #1976d2;
+  
+}
+.input p {
+  color: rgb(215, 7, 7);
+  font-size: 12px;
+}
